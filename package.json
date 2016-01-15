@@ -1,7 +1,7 @@
 {
   "name": "tool-bar-misty",
   "main": "./lib/tool-bar-misty",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "personal tool-bar",
   "keywords": [
   ],
